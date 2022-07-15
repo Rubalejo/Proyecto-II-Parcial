@@ -36,4 +36,11 @@
 
 **BIBLIOGRAFÍA**
 
+Dimmer - Qué es, tipos y cómo funciona un atenuador de luz - Erenovable.com. (2021, October 19). Erenovable.com. https://erenovable.com/que-es-un-dimmer/
+
+‌Regulador de intensidad (DIMMER) con Triac y Diac. (2020, August 26). Electrónica Para Todos. http://www.electronicworld.com.mx/electronica/regulador-de-intensidad-dimmer-con-triac-y-diac/
+
+‌https://www.areatecnologia.com. (2022). dimmer. Areatecnologia.com. https://www.areatecnologia.com/electricidad/dimmer-regulador-de-luz.html#:~:text=Un%20Regulador%20de%20Luz%20o,de%20intensidad%20y%2Fo%20voltaje.
+
+‌Cómo hacer un dimmer para 220 y 12 V: circuitos, video, instrucciones. (2016, July 25). Electroexp.com. https://electroexp.com/es/5-sxem-sborki-samodelnogo-svetoregulyatora.html
 
