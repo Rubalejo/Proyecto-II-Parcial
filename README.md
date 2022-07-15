@@ -14,6 +14,8 @@
 
 ![image](https://user-images.githubusercontent.com/105680588/179206122-aff83300-40ba-49e9-a86b-d553b14c524c.png)
 
+![image](https://user-images.githubusercontent.com/105680588/179207171-4061c3f9-9fee-48a2-a6a0-6a3da4e4ddef.png)
+
 **MATERIAL Y EQUIPO REQUERIDO**
 
 ![image](https://user-images.githubusercontent.com/105680588/179205970-ca61a774-704c-4054-9526-b34717f81945.png)
@@ -30,7 +32,7 @@
 
 **VIDEO**
 
-**CONLCUSIONES**
+**CONClUSIONES**
 
 **BIBLIOGRAFÍA**
 
