@@ -18,7 +18,7 @@
 
 **MARCO TEORICO**
 
-![image](https://user-images.githubusercontent.com/105680588/179615204-10ad0e26-e764-40aa-9147-ab8193b011f9.png)
+![image](https://user-images.githubusercontent.com/105680588/179617753-79b5d662-6ef5-4350-82f2-e81ca07f3883.png)
 
 ![image](https://user-images.githubusercontent.com/105680588/179207171-4061c3f9-9fee-48a2-a6a0-6a3da4e4ddef.png)
 
@@ -67,6 +67,8 @@ Paso 6: Conexión Completa:
 ![image](https://user-images.githubusercontent.com/105680588/179236059-99020d7a-dbed-4169-8d8b-421d8e714a35.png)
 
 **VIDEO**
+
+https://youtu.be/qY_4X68t3Dk
 
 **CONClUSIONES**
 
