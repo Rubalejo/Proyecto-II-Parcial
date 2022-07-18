@@ -18,7 +18,7 @@
 
 **MARCO TEORICO**
 
-![image](https://user-images.githubusercontent.com/105680588/179240015-c70a9f54-5dee-4b3a-889d-9d8a047aaadb.png)
+![image](https://user-images.githubusercontent.com/105680588/179615204-10ad0e26-e764-40aa-9147-ab8193b011f9.png)
 
 ![image](https://user-images.githubusercontent.com/105680588/179207171-4061c3f9-9fee-48a2-a6a0-6a3da4e4ddef.png)
 
